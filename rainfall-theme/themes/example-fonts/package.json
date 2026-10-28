@@ -1,6 +1,0 @@
-{
-	"name": "@valenced/google-sans-flex",
-	"devDependencies": {
-		"@valenced/themes-api": "workspace:*"
-	}
-}
