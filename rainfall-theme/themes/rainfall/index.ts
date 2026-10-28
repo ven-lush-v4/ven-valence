@@ -12,12 +12,12 @@ import type { ThemeColors } from '@valenced/themes-api/types'
 
 export default plugin({
 	preInit({ themes }) {
-		themes.registerGroup('examples', {
-			name: 'Examples',
-			description: 'Example themes and backgrounds',
+		themes.registerGroup('Rainfall', {
+			name: 'Rainfall',
+			description: 'initial test',
 		})
 
-		const Image = 'assets/background.png'
+		const Image = 'assets/rain.gif'
 
 		themes.registerTheme('examples', 'stripes', {
 			name: 'Stripes',
