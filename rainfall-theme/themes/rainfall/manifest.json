@@ -4,7 +4,7 @@
 	"name": "Rainfall",
 	"description": "Ported version of Rainstorm Oled from Rain, originally by .cxsir. <803306255062007818>",
 	"author": "ven.lush <1006918895506046997>",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"dependencies": {
 		"valenced.api": {
 			"version": ">=1 <2"
