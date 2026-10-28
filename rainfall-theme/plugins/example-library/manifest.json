@@ -1,0 +1,19 @@
+{
+	"format": 1,
+	"id": "com.example.library",
+	"name": "Example Library",
+	"description": "A plugin other plugins can depend on. See Example Dependent.",
+	"author": "Your Name <643945264868098049> (https://discord.com \"Website\")",
+	"version": "1.0.0",
+	"dependencies": {
+		"valenced.api": {
+			"version": ">=1 <2"
+		},
+		"discord": {
+			"version": "*"
+		}
+	},
+	"dist": {
+		"script": "index.js"
+	}
+}

@@ -1,0 +1,20 @@
+{
+	"format": 1,
+	"id": "com.example.always-errors",
+	"name": "Always Errors",
+	"description": "A plugin that always throws errors.",
+	"icon": "CircleErrorIcon",
+	"author": "Your Name <643945264868098049> (https://discord.com \"Website\")",
+	"version": "1.0.0",
+	"dependencies": {
+		"valenced.api": {
+			"version": ">=1 <2"
+		},
+		"discord": {
+			"version": "*"
+		}
+	},
+	"dist": {
+		"script": "index.js"
+	}
+}
