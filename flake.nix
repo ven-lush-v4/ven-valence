@@ -16,6 +16,8 @@
         typescript
         typescript-language-server
         vscode-langservers-extracted
+        pnpm
+        biome
       ];
     in
     {

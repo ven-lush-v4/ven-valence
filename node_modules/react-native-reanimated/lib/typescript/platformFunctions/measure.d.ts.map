@@ -1,0 +1,1 @@
+{"version":3,"file":"measure.d.ts","sourceRoot":"","sources":["../../../src/platformFunctions/measure.ts"],"names":[],"mappings":"AAEA,OAAO,KAAK,EAAE,iBAAiB,EAAE,kBAAkB,EAAE,MAAM,gBAAgB,CAAC;AAC5E,OAAO,KAAK,EAAE,WAAW,EAAE,MAAM,qBAAqB,CAAC;AAEvD,wBAAgB,OAAO,CAAC,IAAI,SAAS,iBAAiB,EACpD,WAAW,EAAE,WAAW,CAAC,IAAI,CAAC,GAC7B,kBAAkB,GAAG,IAAI,CAmB3B"}

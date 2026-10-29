@@ -1,0 +1,38 @@
+{
+	"name": "@valenced/plugin-cli",
+	"version": "0.1.0",
+	"description": "Build, index and serve Valenced plugin repositories.",
+	"license": "GPL-3.0-or-later",
+	"type": "module",
+	"bin": {
+		"valenced-plugin": "bin/valenced-plugin.js"
+	},
+	"files": [
+		"bin",
+		"dist",
+		"src"
+	],
+	"engines": {
+		"node": ">=22.18"
+	},
+	"scripts": {
+		"build": "tsc -p tsconfig.json",
+		"prepare": "tsc -p tsconfig.json",
+		"lint:types": "tsc -p tsconfig.json --noEmit",
+		"test": "bun test"
+	},
+	"dependencies": {
+		"@swc/core": "^1.16.2",
+		"fflate": "^0.8.3",
+		"rolldown": "^1.2.7",
+		"typescript": "^7.0.2"
+	},
+	"devDependencies": {
+		"@biomejs/biome": "^2.5.12",
+		"@types/bun": "^1.4.1",
+		"@types/node": "^22.20.1"
+	},
+	"peerDependencies": {
+		"@valenced/types": "git+https://github.com/Valenced/valenced-types.git"
+	}
+}

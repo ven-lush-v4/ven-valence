@@ -3,7 +3,7 @@
 	"id": "com.github.ven-lush-v4.rainfall",
 	"name": "Rainfall",
 	"description": "Ported version of Rainstorm Oled from Rain, originally by .cxsir. <803306255062007818>",
-	"author": "ven.lush <1006918895506046997>",
+	"author": "ven.lush <1006918895506046997>  gh: ven-lush-v4",
 	"version": "0.0.4",
 	"dependencies": {
 		"valenced.api": {

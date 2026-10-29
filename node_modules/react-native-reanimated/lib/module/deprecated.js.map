@@ -1,0 +1,1 @@
+{"version":3,"names":["addWhitelistedNativeProps","_props","addWhitelistedUIProps"],"sourceRoot":"../../src","sources":["deprecated.ts"],"mappings":"AAAA,YAAY;;AAEZ;AACA,OAAO,SAASA,yBAAyBA,CACvCC,MAA+B,EACzB;EACN;AAAA;;AAGF;AACA,OAAO,SAASC,qBAAqBA,CAACD,MAA+B,EAAQ;EAC3E;AAAA","ignoreList":[]}
