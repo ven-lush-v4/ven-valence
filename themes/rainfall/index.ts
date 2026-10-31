@@ -16,6 +16,8 @@ import { AppState } from 'react-native'
 const rainSemantic: Record<string, string> = {
 	ANDROID_RIPPLE: '#FFFFFF1F',
 	BACKGROUND_ACCENT: '#4A4A4A',
+	BACKGROUND_BASE_LOWER: '#000000',
+	BACKGROUND_BASE_LOWEST: '000000',
 	BACKGROUND_MENTIONED: '#FFFFFF1F',
 	BACKGROUND_MENTIONED_HOVER: '#FFFFFF33',
 	BACKGROUND_MESSAGE_HOVER: '#141414',
@@ -292,7 +294,7 @@ export default plugin({
 
 		const Image = 'assets/rain.gif'
 
-    themes.registerTheme('Rainfall', 'rain', {
+		themes.registerTheme('Rainfall', 'rain', {
 			name: 'Rainfall',
 			// Returning an empty object/record means no color overrides.
 			getColors: () => ({
@@ -307,41 +309,41 @@ export default plugin({
 		})
 
 		// themes.registerTheme('examples', 'stripes-soft', {
-			// name: 'Stripes, dimmed and blurred',
-			// Returning an empty object/record means no color overrides.
-			// getColors: () => ({}),
-			// background: { path: Image, opacity: 0.5, blur: 8, dimming: 0.5 },
+		// name: 'Stripes, dimmed and blurred',
+		// Returning an empty object/record means no color overrides.
+		// getColors: () => ({}),
+		// background: { path: Image, opacity: 0.5, blur: 8, dimming: 0.5 },
 		// })
-	// },
-	// init({ themes }) {
+		// },
+		// init({ themes }) {
 		// If you need access to Discord's token names, do it in `init` or `start`!
 
 		// Make all semantic tokens starting with `TEXT_` red.
 		// themes.registerTheme('examples', 'red-text', {
-			// name: 'Make Text Red',
-			// getColors: () => {
-				// const tokenNames = Object.keys(Tokens.SemanticColor).filter(name =>
-					// name.startsWith('TEXT_'),
-				// )
+		// name: 'Make Text Red',
+		// getColors: () => {
+		// const tokenNames = Object.keys(Tokens.SemanticColor).filter(name =>
+		// name.startsWith('TEXT_'),
+		// )
 
-				// const mySemanticColors: ThemeColors['semantic'] = {
-					// dark: {},
-					// darker: {},
-					// light: {},
-					// midnight: {},
-				// }
+		// const mySemanticColors: ThemeColors['semantic'] = {
+		// dark: {},
+		// darker: {},
+		// light: {},
+		// midnight: {},
+		// }
 
-				// for (const name of tokenNames) {
-					// mySemanticColors.dark![name] = '#ff0000'
-					// mySemanticColors.darker![name] = '#ff0000'
-					// mySemanticColors.light![name] = '#ff0000'
-					// mySemanticColors.midnight![name] = '#ff0000'
-				// }
+		// for (const name of tokenNames) {
+		// mySemanticColors.dark![name] = '#ff0000'
+		// mySemanticColors.darker![name] = '#ff0000'
+		// mySemanticColors.light![name] = '#ff0000'
+		// mySemanticColors.midnight![name] = '#ff0000'
+		// }
 
-				// return {
-					// semantic: mySemanticColors,
-			// }
-			// },
+		// return {
+		// semantic: mySemanticColors,
+		// }
+		// },
 		// })
 
 		// You can also make derivable themes (e.g. adding color tint or dimming).
