@@ -1,1 +1,0 @@
-{"version":3,"names":["validatePseudoStyles","_pseudoStylesBySelector","_defaultStyle","_componentName"],"sourceRoot":"../../../../../src","sources":["css/native/managers/validatePseudoStyles.ts"],"mappings":"AAAA,YAAY;;AAIZ,OAAO,SAASA,oBAAoBA,CAClCC,uBAA+C,EAC/CC,aAA4B,EAC5BC,cAAsB,EACtB;EACA;AAAA","ignoreList":[]}

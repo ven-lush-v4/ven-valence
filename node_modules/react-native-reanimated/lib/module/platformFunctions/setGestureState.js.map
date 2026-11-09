@@ -1,1 +1,0 @@
-{"version":3,"names":["logger","setGestureState","_handlerTag","_newState","warn"],"sourceRoot":"../../../src","sources":["platformFunctions/setGestureState.ts"],"mappings":"AAAA,YAAY;;AAEZ,SAASA,MAAM,QAAQ,oBAAW;AAElC,OAAO,SAASC,eAAeA,CAACC,WAAmB,EAAEC,SAAiB,EAAE;EACtEH,MAAM,CAACI,IAAI,CAAC,4CAA4C,CAAC;AAC3D","ignoreList":[]}

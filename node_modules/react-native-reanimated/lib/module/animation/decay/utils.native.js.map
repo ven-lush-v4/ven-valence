@@ -1,1 +1,0 @@
-{"version":3,"names":["isValidRubberBandConfig","SLOPE_FACTOR","VELOCITY_EPS"],"sourceRoot":"../../../../src","sources":["animation/decay/utils.native.ts"],"mappings":"AAAA,YAAY;;AASZ,SAASA,uBAAuB,EAAEC,YAAY,QAAQ,kBAAe;AAErE,OAAO,MAAMC,YAAY,GAAG,CAAC","ignoreList":[]}

@@ -1,1 +1,0 @@
-{"version":3,"file":"scrollTo.d.ts","sourceRoot":"","sources":["../../../src/platformFunctions/scrollTo.ts"],"names":[],"mappings":"AAKA,OAAO,KAAK,EAAE,iBAAiB,EAAE,MAAM,gBAAgB,CAAC;AACxD,OAAO,KAAK,EAAE,WAAW,EAAE,MAAM,qBAAqB,CAAC;AAEvD,wBAAgB,QAAQ,CAAC,IAAI,SAAS,iBAAiB,EACrD,WAAW,EAAE,WAAW,CAAC,IAAI,CAAC,EAC9B,CAAC,EAAE,MAAM,EACT,CAAC,EAAE,MAAM,EACT,QAAQ,EAAE,OAAO,QAelB"}

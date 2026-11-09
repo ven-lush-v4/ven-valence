@@ -1,1 +1,0 @@
-{"version":3,"file":"updateProps.d.ts","sourceRoot":"","sources":["../../../src/updateProps/updateProps.ts"],"names":[],"mappings":"AAGA,OAAO,KAAK,EAAE,sBAAsB,EAAE,MAAM,gBAAgB,CAAC;AAC7D,OAAO,KAAK,EAAE,WAAW,EAAE,MAAM,wCAAwC,CAAC;AAI1E,QAAA,MAAM,WAAW,EAAE,CACjB,eAAe,EAAE,sBAAsB,EACvC,OAAO,EAAE,WAAW,EACpB,eAAe,CAAC,EAAE,OAAO,KACtB,IAYJ,CAAC;AAEF,eAAe,WAAW,CAAC"}

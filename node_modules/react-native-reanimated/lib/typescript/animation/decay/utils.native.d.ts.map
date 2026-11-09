@@ -1,1 +1,0 @@
-{"version":3,"file":"utils.native.d.ts","sourceRoot":"","sources":["../../../../src/animation/decay/utils.native.ts"],"names":[],"mappings":"AAEA,YAAY,EACV,cAAc,EACd,WAAW,EACX,kBAAkB,EAClB,mBAAmB,EACnB,qBAAqB,GACtB,MAAM,eAAe,CAAC;AACvB,OAAO,EAAE,uBAAuB,EAAE,YAAY,EAAE,MAAM,eAAe,CAAC;AAEtE,eAAO,MAAM,YAAY,IAAI,CAAC"}
